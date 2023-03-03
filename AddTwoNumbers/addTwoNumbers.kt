@@ -18,6 +18,7 @@
 
 class Solution 
 {
+    // Test
     fun main()
     {
         val l1 = ListNode(2).apply {
@@ -32,15 +33,14 @@ class Solution
         }
     }
 
-    val result = addTwoNumbers(l1, l2)
+        val result = addTwoNumbers(l1, l2)
 
-    // Print the result
-    var curr = result
-    while(curr != null){
+        // Print the result
+        var curr = result
+        while(curr != null){
         print("${curr.`val`}")
         curr = curr.next
-    }
-
+        }
     }
 
     // This is the function signature for `addTwoNumbers`, which takes in two parameters `l1` and `l2`,
