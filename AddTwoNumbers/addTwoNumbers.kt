@@ -16,7 +16,7 @@
      var next: ListNode? = null
  }
 
-class Solution 
+class SolutionTwoNumbers 
 {
     // Test
     fun main()
