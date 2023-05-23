@@ -51,4 +51,12 @@ Output: 2.00000
 Explanation: merged array = [1,2,3]d and medium is 2.
 ```
 
+## Palindrome Number
+Given an integer **x**, return **true** if **x** is a palindrome, and **false** otherwise.
 
+**Example**
+```sh
+Input: x = 121
+Output: true
+Explanation: 121 reads as 121 from left to right and from right to left.
+```
